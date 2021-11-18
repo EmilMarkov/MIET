@@ -310,5 +310,7 @@ int main() {
 
 	avg_arr(sum1, sum3);
 
+	cout << "";
+
 }
 #endif
